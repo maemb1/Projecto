@@ -1,0 +1,95 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch InterfazDeUsuario",
+            "request": "launch",
+            "vmArgs": "--module-path D:\\Java\\javafx-sdk-17.0.1\\lib\\ --add-modules=javafx.controls",
+            "mainClass": "InterfazDeUsuario",
+            "projectName": "LayoutsFX_f0eab94f"
+        },
+        {
+            "type": "java",
+            "name": "Launch AnchorPane1",
+            "request": "launch",
+            "vmArgs": "--module-path D:\\Java\\javafx-sdk-17.0.1\\lib\\ --add-modules=javafx.controls",
+            "mainClass": "AnchorPane1",
+            "projectName": "LayoutsFX_f0eab94f"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowPane1",
+            "request": "launch",
+            "vmArgs": "--module-path D:\\Java\\javafx-sdk-17.0.1\\lib\\ --add-modules=javafx.controls",
+            "mainClass": "FlowPane1",
+            "projectName": "LayoutsFX_f0eab94f"
+        },
+        {
+            "type": "java",
+            "name": "Launch TilePane1",
+            "request": "launch",
+            "vmArgs": "--module-path D:\\Java\\javafx-sdk-17.0.1\\lib\\ --add-modules=javafx.controls",
+            "mainClass": "TilePane1",
+            "projectName": "LayoutsFX_f0eab94f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vbox1",
+            "request": "launch",
+            "vmArgs": "--module-path D:\\Java\\javafx-sdk-17.0.1\\lib\\ --add-modules=javafx.controls",
+            "mainClass": "Vbox1",
+            "projectName": "LayoutsFX_f0eab94f"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackPane1",
+            "request": "launch",
+            "vmArgs": "--module-path D:\\Java\\javafx-sdk-17.0.1\\lib\\ --add-modules=javafx.controls",
+            "mainClass": "StackPane1",
+            "projectName": "LayoutsFX_f0eab94f"
+        },
+        {
+            "type": "java",
+            "name": "Launch HBox1",
+            "request": "launch",
+            "vmArgs": "--module-path D:\\Java\\javafx-sdk-17.0.1\\lib\\ --add-modules=javafx.controls",
+            "mainClass": "HBox1",
+            "projectName": "LayoutsFX_f0eab94f"
+        },
+        {
+            "type": "java",
+            "name": "Launch GridPane1",
+            "request": "launch",
+            "vmArgs": "--module-path D:\\Java\\javafx-sdk-17.0.1\\lib\\ --add-modules=javafx.controls",
+            "mainClass": "GridPane1",
+            "projectName": "LayoutsFX_f0eab94f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BorderPane1",
+            "request": "launch",
+            "vmArgs": "--module-path D:\\Java\\javafx-sdk-17.0.1\\lib\\ --add-modules=javafx.controls",
+            "mainClass": "BorderPane1",
+            "projectName": "LayoutsFX_f0eab94f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "vmArgs": "--module-path D:\\Java\\javafx-sdk-17.0.1\\lib\\ --add-modules=javafx.controls",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowPane1",
+            "request": "launch",
+            "vmArgs": "--module-path D:\\Java\\javafx-sdk-17.0.1\\lib\\ --add-modules=javafx.controls",
+            "mainClass": "layoutfx",
+            "projectName": "LayoutsFX_f0eab94f"
+        }
+    ]
+}
